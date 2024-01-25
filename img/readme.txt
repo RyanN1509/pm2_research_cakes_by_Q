@@ -1,1 +1,0 @@
-WEBPs, JPGs, PNGs, etc go in this folder
